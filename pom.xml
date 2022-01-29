@@ -87,7 +87,7 @@
     <mockito.version>3.7.7</mockito.version>
     <jmockit.version>1.49</jmockit.version>
     <jjwt.version>0.11.2</jjwt.version>
-    <mysql.connector.version>8.0.23</mysql.connector.version>
+    <mysql.connector.version>8.0.28</mysql.connector.version>
     <commons.daemon.version>1.2.3</commons.daemon.version>
     <apache.httpclient.version>4.5.13</apache.httpclient.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
