@@ -1,4 +1,4 @@
-FROM node:12.16.2-alpine AS builder
+FROM node:12.22.11-alpine AS builder
 
 RUN set -eux && apk update && apk add --no-cache --update ca-certificates libstdc++ libgcc tini make git
 
@@ -26,7 +26,7 @@ RUN rm -rf scripts \
     && rm -rf pom.xml \
     && rm -rf README.md
 
-FROM node:12.16.2-alpine
+FROM node:12.22.11-alpine
 # date -u +'%Y-%m-%dT%H:%M:%SZ'
 ARG BUILD_DATE
 # git rev-parse --short HEAD
