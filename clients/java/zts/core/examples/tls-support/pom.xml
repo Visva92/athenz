@@ -28,7 +28,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <athenz.version>1.9.29</athenz.version>
-    <jjwt.version>0.11.2</jjwt.version>
+    <jjwt.version>0.11.4</jjwt.version>
   </properties>
 
   <dependencies>
