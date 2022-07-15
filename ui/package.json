@@ -84,7 +84,7 @@
         "react-popper-tooltip": "^3.1.1",
         "request": "^2.88.2",
         "setimmediate": "^1.0.5",
-        "terser": "^5.5.1",
+        "terser": "^5.14.2",
         "uuid": "^8.3.2",
         "xml-crypto": "^2.0.0"
     },
