@@ -72,7 +72,7 @@
     <jetty.version>9.4.36.v20210114</jetty.version>
     <jersey.version>2.33</jersey.version>
     <jackson.core.version>2.12.1</jackson.core.version>
-    <jackson.databind.version>2.12.1</jackson.databind.version>
+    <jackson.databind.version>2.12.7.1</jackson.databind.version>
     <jackson.annotations.version>2.12.1</jackson.annotations.version>
     <jackson.jaxrs.version>2.12.1</jackson.jaxrs.version>
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
@@ -94,7 +94,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <code.coverage.min>0.95</code.coverage.min>
     <argLine>-Dlogback.configurationFile=src/test/resources/sd_logback.xml</argLine>
-    <swagger.version>2.1.6</swagger.version>
+    <swagger.version>2.2.4</swagger.version>
   </properties>
 
   <modules>
