@@ -69,7 +69,7 @@
   </ciManagement>
 
   <properties>
-    <jetty.version>9.4.36.v20210114</jetty.version>
+    <jetty.version>9.4.53.v20231009</jetty.version>
     <jersey.version>2.33</jersey.version>
     <jackson.core.version>2.12.1</jackson.core.version>
     <jackson.databind.version>2.12.1</jackson.databind.version>
