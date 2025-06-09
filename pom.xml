@@ -70,8 +70,8 @@
 
   <properties>
     <jetty.version>9.4.36.v20210114</jetty.version>
-    <jersey.version>2.33</jersey.version>
-    <jackson.core.version>2.12.1</jackson.core.version>
+    <jersey.version>2.36</jersey.version>
+    <jackson.core.version>2.13.0</jackson.core.version>
     <jackson.databind.version>2.12.1</jackson.databind.version>
     <jackson.annotations.version>2.12.1</jackson.annotations.version>
     <jackson.jaxrs.version>2.12.1</jackson.jaxrs.version>
@@ -94,7 +94,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <code.coverage.min>0.95</code.coverage.min>
     <argLine>-Dlogback.configurationFile=src/test/resources/sd_logback.xml</argLine>
-    <swagger.version>2.1.6</swagger.version>
+    <swagger.version>2.2.0</swagger.version>
   </properties>
 
   <modules>
